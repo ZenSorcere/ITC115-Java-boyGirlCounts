@@ -1,0 +1,2 @@
+# ITC115-Java-boyGirlCounts
+A method named boyGirl that accepts a Scanner as a parameter, and reads its input from a file containing a series of names followed by integers. The names alternate between boys' names and girls' names. The method computes the absolute difference between the sum of the boys' integers and the sum of the girls' integers. The input could end with either a boy or girl; it does not assume that it contains an even number of names. 
